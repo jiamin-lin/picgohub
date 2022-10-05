@@ -1,3 +1,3 @@
 # picgohub
 Myblog Picture Bed
-dreamin.space
+[天天up的库](https://dreamin.space)
